@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "cpf": "12345678900",
+      "email": "admin@email.com",
+      "senha": "$2a$10$7QJZ7V5h7g5xYkYFzQnZ4eU6c0b0v2c1ZrW0n9rj8Z3kV2Zy7c1yK",
+      "nome": "Admin",
+      "tipo": "admin"
+    }
+  ],
+  "beneficios": [
+    {
+      "cpf": "12345678900",
+      "status": "ATIVO",
+      "valor": "R$ 1.412,00",
+      "pagamento": "10/05/2026"
+    }
+  ]
+}
